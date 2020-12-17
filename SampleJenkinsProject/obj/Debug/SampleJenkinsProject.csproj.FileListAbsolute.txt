@@ -1,0 +1,7 @@
+C:\Users\Golu\Desktop\Specialisation\Day3\SampleJenkinsSolution\SampleJenkinsProject\bin\Debug\SampleJenkinsProject.exe.config
+C:\Users\Golu\Desktop\Specialisation\Day3\SampleJenkinsSolution\SampleJenkinsProject\bin\Debug\SampleJenkinsProject.exe
+C:\Users\Golu\Desktop\Specialisation\Day3\SampleJenkinsSolution\SampleJenkinsProject\bin\Debug\SampleJenkinsProject.pdb
+C:\Users\Golu\Desktop\Specialisation\Day3\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.csprojAssemblyReference.cache
+C:\Users\Golu\Desktop\Specialisation\Day3\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.csproj.CoreCompileInputs.cache
+C:\Users\Golu\Desktop\Specialisation\Day3\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.exe
+C:\Users\Golu\Desktop\Specialisation\Day3\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.pdb
